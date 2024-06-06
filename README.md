@@ -39,7 +39,7 @@ Integração com Display LCD:
 ## Conclusão 
 Este projeto proporciona um método eficaz e acessível para monitorar a qualidade da água dos oceanos. Através da combinação de sensores e tecnologia Arduino, é possível obter dados críticos em tempo real, auxiliando na preservação do ecossistema marinho e na conscientização pública.
 ## 🔗 Links do projeto
-[![portfolio]](https://katherineoelsner.com/)
+[portfolio](https://wokwi.com/projects/399722347389581313)
 
 
 ## Autores
