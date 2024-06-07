@@ -44,9 +44,9 @@ Este projeto proporciona um método eficaz e acessível para monitorar a qualida
 
 ## Autores
 
-- [@Pedro de Lorezno](https://github.com/PedroLorenzop)
-- [@Vinicius Castro](https://github.com/ViniciusCastroo)
-- [@Metheus Cantiere](https://github.com/matheuscantiere)
+- [@Pedro de Lorezno](https://github.com/PedroLorenzop) (RM554730)
+- [@Vinicius Castro](https://github.com/ViniciusCastroo) (RM556137)
+- [@Metheus Cantiere](https://github.com/matheuscantiere) (RM558479)
 
 
 ## Licença
